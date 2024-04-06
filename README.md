@@ -12,7 +12,7 @@ The Solution is related to reading data from Teltonika device over IOT Hub and R
 
 This Solution is related to Azure IOT Hub Stuff
 
-# All the Codec protocols are handled in this solution We only need to add a database, IOT Hub, and Storage Account Connection string and run the project it will start sending the database.
+# All the Codec protocols are handled in this solution We only need to add a database, IOT Hub, and Storage Account Connection string and run the project it will start sending the data into the database.
 
 The project has 3 WebJobs
 
