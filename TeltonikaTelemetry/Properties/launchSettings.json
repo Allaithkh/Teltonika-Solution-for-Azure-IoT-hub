@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeltonikaTelemetry": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TELTONIKA_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

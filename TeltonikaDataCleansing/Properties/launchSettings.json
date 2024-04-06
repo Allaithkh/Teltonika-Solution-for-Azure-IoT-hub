@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeltonikaDataCleansing": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TELTONIKA_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

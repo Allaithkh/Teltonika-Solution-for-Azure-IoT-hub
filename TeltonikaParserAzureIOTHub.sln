@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeltonikaCodecsDataConverter", "TeltonikaCodecsDataConverter\TeltonikaCodecsDataConverter.csproj", "{B26C7B4F-3802-4348-8481-4CC72C9A9B05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeltonikaModels", "TeltonikaModels\TeltonikaModels.csproj", "{CD6360D4-90BA-4718-93CC-8BA14E24F9E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeltonikaRepository", "TeltonikaRepository\TeltonikaRepository.csproj", "{59503FCD-B55C-491B-85D3-6CCEDC174119}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeltonikaTelemetry", "TeltonikaTelemetry\TeltonikaTelemetry.csproj", "{6D050E7A-BD3F-4700-AEDD-9D71FE371D8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeltonikaTelemetricTrove", "TeltonikaTelemetricTrove\TeltonikaTelemetricTrove.csproj", "{ED327ECB-7BC2-44D8-915A-45754B2221C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeltonikaDataCleansing", "TeltonikaDataCleansing\TeltonikaDataCleansing.csproj", "{367B9002-7451-484B-9F4C-D31D916885C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26C7B4F-3802-4348-8481-4CC72C9A9B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26C7B4F-3802-4348-8481-4CC72C9A9B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26C7B4F-3802-4348-8481-4CC72C9A9B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26C7B4F-3802-4348-8481-4CC72C9A9B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6360D4-90BA-4718-93CC-8BA14E24F9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6360D4-90BA-4718-93CC-8BA14E24F9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6360D4-90BA-4718-93CC-8BA14E24F9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6360D4-90BA-4718-93CC-8BA14E24F9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59503FCD-B55C-491B-85D3-6CCEDC174119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59503FCD-B55C-491B-85D3-6CCEDC174119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59503FCD-B55C-491B-85D3-6CCEDC174119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59503FCD-B55C-491B-85D3-6CCEDC174119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D050E7A-BD3F-4700-AEDD-9D71FE371D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D050E7A-BD3F-4700-AEDD-9D71FE371D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D050E7A-BD3F-4700-AEDD-9D71FE371D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D050E7A-BD3F-4700-AEDD-9D71FE371D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED327ECB-7BC2-44D8-915A-45754B2221C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED327ECB-7BC2-44D8-915A-45754B2221C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED327ECB-7BC2-44D8-915A-45754B2221C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED327ECB-7BC2-44D8-915A-45754B2221C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367B9002-7451-484B-9F4C-D31D916885C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367B9002-7451-484B-9F4C-D31D916885C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367B9002-7451-484B-9F4C-D31D916885C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367B9002-7451-484B-9F4C-D31D916885C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02EC20D9-223D-4E83-AF34-79DDE1F1FD4E}
+	EndGlobalSection
+EndGlobal

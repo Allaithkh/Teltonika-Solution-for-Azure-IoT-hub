@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeltonikaTelemetricTrove": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TELTONIKA_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
